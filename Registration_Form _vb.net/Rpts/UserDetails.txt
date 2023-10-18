@@ -1,0 +1,5 @@
+Sr No.| Name | DOB | Gender | phone | Email | Course
+1|dwd wqewq fsdf|2023-09-20|Male|2323|sdf@|Mechanical
+2|dwd wqewq fsdf|2023-09-20|Male|23232|sdf@2|Mechanical
+3|dwd wqewq fsdf|2023-09-20|Male|232|sdf@s|Computer
+4|dwd wqewq fsdf|2023-09-20|Male|2323232|sdf@swqe|Computer
